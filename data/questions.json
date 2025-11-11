@@ -1,0 +1,19 @@
+[
+  {
+    "id": "demo-1",
+    "section": "rules",
+    "prompt": "Sample G1 question",
+    "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer_index": 1,
+    "explanation": "This is an example question.",
+    "reference": {
+      "title": "MTO",
+      "url": "https://www.ontario.ca/document/official-mto-drivers-handbook"
+    }
+  }
+]
